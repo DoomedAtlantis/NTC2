@@ -1,14 +1,15 @@
--Add Xnet due go current issues between flux networks and Pipez
+-Added Xnet due to current issues between flux networks and Pipez
     https://github.com/henkelmax/pipez/issues/15
     Xnet less lag inducing than tons of Mekanism cables
+-Added XNetGases to provide support for moving Mekanism gasses
 -Updated Immersive Engineering + dependent because render bug
-    https://github.com/BluSunrize/ImmersiveEngineering/issues/5068
-    Added XNetGases to provide support for moving Mekanism gasses
+    https://github.com/BluSunrize/ImmersiveEngineering/issues/5068  
 -Update Flux Network for bug-fixes
 -Updated COFH Core and thermal for compatibility.
 -Attempted to solve render issue by updating Ex Nihilo Sequentia
     https://github.com/NovaMachina-Mods/ExNihiloSequentia/issues/294
-    Unfortunately issue presets, not only reappears on world restart/reload.
+    Unfortunately issue persists, but now only reappears on world restart/reload.
+    Issue can then be temporarly resolved by adding and removing the liquid from the barrels.
 -Updated Tinkers Construct and dependencies in attempt to fix issue with KubeJS BetterEnd Forge teminite being unable to make tinker parts.
 -Added Tinkers Better Compat as workaround for being able to use teminite in tinker tools.
 -Updated Rf Tools Storage and Rf Tools Utility due to Mcjtylib update. (required to use current version of Xnet)
