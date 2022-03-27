@@ -1,0 +1,23 @@
+-Add Xnet due go current issues between flux networks and Pipez
+    https://github.com/henkelmax/pipez/issues/15
+    Xnet less lag inducing than tons of Mekanism cables
+-Updated Immersive Engineering + dependent because render bug
+    https://github.com/BluSunrize/ImmersiveEngineering/issues/5068
+    Added XNetGases to provide support for moving Mekanism gasses
+-Update Flux Network for bug-fixes
+-Updated COFH Core and thermal for compatibility.
+-Attempted to solve render issue by updating Ex Nihilo Sequentia
+    https://github.com/NovaMachina-Mods/ExNihiloSequentia/issues/294
+    Unfortunately issue presets, not only reappears on world restart/reload.
+-Updated Tinkers Construct and dependencies in attempt to fix issue with KubeJS BetterEnd Forge teminite being unable to make tinker parts.
+-Added Tinkers Better Compat as workaround for being able to use teminite in tinker tools.
+-Updated Rf Tools Storage and Rf Tools Utility due to Mcjtylib update. (required to use current version of Xnet)
+-Added Cooking for Blockheads for convenience of multi-block kitchen (might need recipe modification to fit pack progression)
+-Added Polymorph (Forge) to allow recipe toggle, when recipes overlap. (Issue with charcoal to both charcoal (Raw) (Chisel) and charcoal chunks (More charcoal) conflicting)
+-Updated Fast Furnace and Fast Workbench and Sophisticated backpacks to support Polymorph.
+-Added Immersive Posts for convenience and better factory immersion.
+-Updated Snow Real Magic because required, due to other mod updates.
+-Added Compact Machines in attempt to resolve interment visual issue with compact crafting crafting not always rendering shrinking.
+    Also added it to allow for late game performance saving by compartmentalizing complex production chain. (Recipes will likely need changing and have to check compatibility with Pollution of the Realms pollution mechanic)
+    
+-Added Baubley Heart Canisters for testing of idea.     
